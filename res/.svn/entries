@@ -1,0 +1,61 @@
+10
+
+dir
+26
+https://vip.svnspot.com/frl1994.SeeTheHorizon/SeeTheHorizon/res
+https://vip.svnspot.com/frl1994.SeeTheHorizon
+
+
+
+2015-05-12T03:22:46.360956Z
+25
+frl1994
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c1bee494-b803-f844-dc5c-b35065a82860
+
+drawable-hdpi
+dir
+
+drawable-ldpi
+dir
+
+drawable-mdpi
+dir
+
+drawable-xhdpi
+dir
+
+drawable-xxhdpi
+dir
+
+layout
+dir
+
+menu
+dir
+
+values
+dir
+
+values-v11
+dir
+
+values-v14
+dir
+
+values-w820dp
+dir
+

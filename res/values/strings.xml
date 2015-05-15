@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SeeTheHorizon</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="time">10:20</string>
+	<string name="day">周五 2015年5月8日</string> 
+	<string name="hint">长按时间解锁屏幕</string>
+</resources>
